@@ -1,0 +1,13 @@
+body {
+  font-size: 24px;
+  background: rgb(228, 128, 128);
+}
+
+.container {
+  background: rgb(252, 247, 247);
+  width: 600px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px 20px;
+  margin: 0 auto;
+}
